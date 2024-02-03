@@ -9,7 +9,7 @@ This is a dictionary matching Mandarin Chinese pinyin syllables to simplified ch
 3) Rare characters are the least frequent characters comprising 0.02% of the corpus.
 4) Uncommon characters are those present in the Unicode database, but not observed in the corpus.
 
-Here is an example dictionary entry for "a":
+Here is an example dictionary entry for "ge":
 
 <img src="Sample.png">
 
